@@ -1,0 +1,45 @@
+Kjellden Knutzen
+Wk 5-6 Proj Dev: Test-Driven Development
+
+
+What advantages as a developer does TDD provide? 
+One advantage of TDD is that it works great with agile stories this allows us to work on the why that the story asks and this allows us to define what it means to be done. 
+What steps do I do to implement TDD? 
+You will need a prefix, summary, Pre-requisites, category, author, requirements/story and testing steps.
+What tools or software can I use to do unit testing?
+Anything you need to run your program, an Idea of what it means for a test to fail and not fail. Debuggers, data base.
+Notes: 
+TDD is part of the Agile frame work. It is when you write tests before you start Programing then run your programs against your tests. Unit Test -> Code -> Refactor -> Unit Test.
+
+TDD is based on BDD (Behavior Driven Design), Test for behavior 1st.
+
+Meeting notes:
+This weeks meeting we worked on our Design Document. We also talked about if SQLlit would work for this project or not or if we should use spark. The outcome of the talk was we should continue to use spark for now but we should talk to other teams about what requirements they are looking for.
+
+Part one: Project Tasking
+
+Scrum Status
+What did you accomplish? (Actually stories with reference numbers from GitHub Projects). I worked on the TDD document and the Design Document
+What are you planning on doing? (Actually stories with reference numbers from GitHub Projects). I planning to keep working on the Design Document
+What changenges are you facing? I am not really facing any challenges right now.
+Part two: Project Artifacts
+
+Summary of Activities:
+Meeting Minutes We meet for around 45 minutes 
+Training notes
+Project Artifacts
+Part three: Project Metrics
+
+Time Tracking
+This Week: 
+Hours worked this week: 8
+Total number of tasks completed: 3
+Total number of story points completed: 1
+Current Story Point Velocity: (Story points/number of tasks):
+Total to Date
+Total hours on project: 25
+Total number of story points completed: 4 or 5
+Total number of tasks: 7 or 8 
+Story Point Velocity: (Story points/number of tasks)
+The story that I got done this week was the design document.
+   
